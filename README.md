@@ -1,5 +1,5 @@
-# MyBooks
-My personal books list
+# BestBooks
+My personal best books list
 
 NOTICE: I am not the author of these books, in the following bibliography are the authors and credits to the real authors Authors of the books:
 
